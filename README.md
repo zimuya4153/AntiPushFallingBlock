@@ -1,35 +1,16 @@
-# LeviLamina Mod Template
+# AntiPushFallingBlock - 禁止推动下落方块
 
-A LeviLamina mod template
+顾名思义，禁止活塞推动下落方块，防止伪展。
 
-This mod is a template for developing LeviLamina mods.
+> 请注意，因修改游戏特性，会导致部分机器不可用，比如刷沙，抖沙。   
 
-## Install
+> 请注意，因修改游戏特性，会导致部分机器不可用，比如刷沙，抖沙。   
 
-Generate a new repository from this template.
+> 请注意，因修改游戏特性，会导致部分机器不可用，比如刷沙，抖沙。
 
-## Usage
+# 配置文件
+无
 
-Before using this mod template, make sure that you have installed XMake and a Minecraft Bedrock Server with LeviLamina.
-
-1. Clone the new repository into a local folder.
-
-1. Change the mod name and the expected LeviLamina version in `xmake.lua`.
-
-1. Add your code.
-
-1. Run `xmake repo -u` in the root of the repository.
-
-1. Run `xmake` to build the mod.
-
-Now the build is complete at `bin/`.
-
-## Contributing
-
-Ask questions by creating an issue.
-
-PRs accepted.
-
-## License
-
-CC0-1.0 © LiteLDev
+# 问题反馈
+- 提issues
+- QQ群：[985991178](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=kNiQhKmsk3UB_ob28ioKIU5T_7a0QS9T&authKey=zQfIPG1syuHtrWeBJUj7f7gaJBbP%2F73esQ7SYkAPo7TU6PbWeSgveHEtROb4aU1b&noverify=0&group_code=985991178)
